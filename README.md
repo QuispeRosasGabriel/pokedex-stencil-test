@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+## About this project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a test pokedex built with React and Stenciljs
+
+## Techonlogies
+
+- React
+- Javascript
+- Stenciljs
+
+## To run this project
+
+- npm i
+- npm run start
+
 
 ## Available Scripts
 
