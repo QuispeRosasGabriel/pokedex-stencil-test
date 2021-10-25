@@ -1,0 +1,14 @@
+.title-wrapper {
+    text-align: center;
+}
+
+.components-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+div:first-child {
+    margin-bottom: 1rem;
+}
